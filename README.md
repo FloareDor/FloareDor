@@ -2,7 +2,7 @@
 
 I'm pursuing a **Master of Software Engineering (Scalable Systems)** at Carnegie Mellon University.
 
-Currently, I'm at **CMU's AirLab**, working with [Eungchang Mason Lee](https://engcang.github.io/) to break drone perception systems before they break themselves. I also work on autonomy for **CMU Lunabotics** under Prof. Wenshan Wang.
+Currently, I'm at **CMU's AirLab**, working with [Eungchang Mason Lee](https://engcang.github.io/) to break drone perception systems before they break themselves. I also work on autonomy for CMU Lunabotics, a lunar excavation robot team, with Prof. Wenshan Wang.
 
 Previously, I interned on the autonomy team at **Motional**. I'm interested in perception, path planning, sim-to-real, and making machine learning run on actual hardware. I also make music sometimes.
 
